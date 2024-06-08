@@ -1,0 +1,35 @@
+Stromkapp:
+  Trade Goods:
+    - Wollen Cloth
+    - Pottery
+    - Amber
+  buying:
+    Scrolls: 98
+    Silver: 130
+    Spices: 65
+    Gems: 149
+    Pelts: 111
+Cortia:
+  Trade Goods:
+    - Pelts
+    - Gems
+    - Spices
+  buying:
+    Scrolls: 129
+    Silver: 172
+    Spices: 40
+    Amber: 74
+    Pottery: 111
+    Wollen Cloth: 74
+Marheim:
+  Trade Goods:
+    - Spices
+    - Scrolls
+    - Silver
+  buying:
+    Spices: 40
+    Amber: 65
+    Pelts: 120
+    Gems: 172
+    Wollen Cloth: 65
+    Pottery: 98
